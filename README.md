@@ -1,1 +1,3 @@
 # ccminer
+
+Modified CCMINER
